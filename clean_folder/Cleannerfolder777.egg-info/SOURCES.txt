@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+Cleannerfolder777.egg-info/PKG-INFO
+Cleannerfolder777.egg-info/SOURCES.txt
+Cleannerfolder777.egg-info/dependency_links.txt
+Cleannerfolder777.egg-info/entry_points.txt
+Cleannerfolder777.egg-info/requires.txt
+Cleannerfolder777.egg-info/top_level.txt
+clean_folder/__init__.py
+clean_folder/clean.py
